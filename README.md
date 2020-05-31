@@ -1,2 +1,2 @@
 # GPS_Monitor
-Einsteiger Projekte Rund um das Bloxx RS232 GPS Modul und dem Arduino Uno/Nano
+Einsteiger GPS Projekte rund um das Bloxx RS232 GPS Modul und dem Arduino Uno/Nano
